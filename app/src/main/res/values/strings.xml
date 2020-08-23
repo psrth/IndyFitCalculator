@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">IndyFitCalculator</string>
+    
+    <string-array name="calculator_names">
+        <item>Body Mass Index (BMI)</item>
+        <item>Ideal Body Weight (IBW)</item>
+        <item>Basal Metabolic Rate (BMR)</item>
+        <item>Calorie Requirement</item>
+        <item>Body Fat Percentage (BFP)</item>
+        <item>Body Surface Area (BSA)</item>
+        <item>Carbohyrdates Requirements</item>
+        <item>Protein Requirements</item>
+        <item>Fat Requirements</item>
+        <item>Total Daily Energy Expenditure (TDEE)</item>
+        <item>Waist-to-Hip Ratio</item>
+        <item>Body Adiposity Index (BAI)</item>
+        <item>Blood Alcohol Concentration</item>
+        <item>Fat Free Mass Index (FFMI)</item>
+        <item>Maximum Heart Rate (MHR)</item>
+    </string-array>
+
 </resources>
