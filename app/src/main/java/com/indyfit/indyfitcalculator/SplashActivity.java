@@ -14,26 +14,21 @@ import android.widget.ImageView;
 public class SplashActivity extends AppCompatActivity {
 
     // variable for timeout duration
-    public static int SPLASH_SCREEN_TIMEOUT = 2000;
+    public static int SPLASH_SCREEN_TIMEOUT = 1500;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // make fullscreen
+        // make splash activity fullscreen
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         setContentView(R.layout.activity_splash);
 
-//        Animation fadeOut = new AlphaAnimation(1, 0);
-//        fadeOut.setInterpolator(new AccelerateInterpolator());
-//        fadeOut.setStartOffset(500);
-//        fadeOut.setDuration(1800);
-//        ImageView image = findViewById(R.id.splashImage);
-//
-//        image.setAnimation(fadeOut);
+        // TODO: animation for the fade in/fade out of splash screen
 
+        // redirects to main activity after fixed period of time
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
