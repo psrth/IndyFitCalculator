@@ -11,11 +11,11 @@
         <item>Carbohydrates Requirements</item>
         <item>Protein Requirements</item>
         <item>Fat Requirements</item>
-        <item>Total Daily Energy Expenditure (TDEE)</item>
+        <item>Total Daily Energy Expenditure</item>
         <item>Waist-to-Hip Ratio</item>
         <item>Body Adiposity Index (BAI)</item>
         <item>Blood Alcohol Concentration</item>
-        <item>Lean Body Mass Assessment (LBM)</item>
+        <item>Lean Body Mass Assessment</item>
         <item>Fat Free Mass Index (FFMI)</item>
         <item>Maximum Heart Rate (MHR)</item>
     </string-array>
