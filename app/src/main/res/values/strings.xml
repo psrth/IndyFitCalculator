@@ -40,13 +40,13 @@
             fat that a person needs each day.</item>
         <item>Total Daily Energy Expenditure is an estimation of how many calories a person burns per day when exercise is taken into account.</item>
         <item>Waist-to-Hip Ratio is a quick measure of fat distribution (especially on waist,
-            hips, and buttocks) that may help indicate a person's overall health. It also helps to measure abdominal obesity.</item>
+            hips, and buttocks) that may help indicate a person\'s overall health. It also helps to measure abdominal obesity.</item>
         <item>Body Adiposity Index is a practical anthropometric method used to measure body fat percentage.</item>
         <item>Blood Alcohol Concentration refers to the amount of alcohol present in the bloodstream.</item>
-        <item>Lean Body Mass Assessment determines a person's estimated lean body mass (LBM) based on body weight, height, gender, and age.</item>
-        <item>Fat Free Mass Index is an alternative to body mass index, which helps in estimates a person's muscle mass.</item>
+        <item>Lean Body Mass Assessment determines a person\'s estimated lean body mass (LBM) based on body weight, height, gender, and age.</item>
+        <item>Fat Free Mass Index is an alternative to body mass index, which helps in estimates a person\'s muscle mass.</item>
         <item>Maximum Heart Rate is most accurately measured using a cardiac stress test, which
-            involves measuring a person's heart function (including heart rate) at periodically
+            involves measuring a person\'s heart function (including heart rate) at periodically
             increasing levels of exercise.</item>
     </string-array>
 
